@@ -9,13 +9,11 @@ anomalies to direct specific testing of your hypothesis.
  
 
 # ALGORITHM
-### STEP 1
-
-### STEP 2
-
-### STEP 3
-
-### STEP 4
+### STEP 1: Create a new file in jupyter notebook.
+### STEP 2: Upload the given csv file.
+### STEP 3: Write codes for Data Analysis (EDA).
+### STEP 4: Plot the result in various formats.
+### STEP 5: End the program.
 
 
 
