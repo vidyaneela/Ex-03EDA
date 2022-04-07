@@ -20,4 +20,6 @@ anomalies to direct specific testing of your hypothesis.
 
 
 # CODE
+
 # OUPUT
+![6](https://user-images.githubusercontent.com/94169318/162113657-19a5e3fb-332f-47d2-b2d5-57ecf932602b.jpg)
